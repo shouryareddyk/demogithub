@@ -1,3 +1,3 @@
 #License
 
-## MIT - apache
+## MIT - apache 2.0
